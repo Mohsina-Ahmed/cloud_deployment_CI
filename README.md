@@ -10,7 +10,8 @@ To set up this project.
 ; pytest           # Run the tests
 ; python app.py    # Run the server
 ```
-# We have added docker with makers server and integrate our little project into it. Now going to practice continuous integration and deployment.
+### We have added docker with makers server and integrate our little project into it. Now going to practice continuous integration and deployment.
+#### Added .github/workflows/main.yml
 
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
